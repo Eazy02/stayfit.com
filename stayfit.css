@@ -1,0 +1,27 @@
+body{
+background-image: url("fotot/2Q5vTL.jpg");
+text-align: center;
+background-size: cover;
+}
+
+h1{
+    background-color: rgba(240, 255, 240, 0.37);
+    font-family: Arial Narrow, sans-serif;
+}
+
+h2{
+    background-color: rgba(240, 255, 240, 0.37);
+    font-family: Bradley Hand, cursive;
+}
+
+div{
+    background-color: rgba(240, 255, 240, 0.37);
+}
+
+h3{
+    background-color: rgba(240, 255, 240, 0.37);
+    font-family: FreeMono, monospace;
+}
+a{
+    color: black;
+}
